@@ -1,0 +1,19 @@
+.ext{
+    color: rgb(0, 183, 255);
+}
+.smallcon{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+    width: 500px;
+    height: 250px;
+    font-size: 15px;
+}
+.smallcon1{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: plum;
+    width: 500px;
+    height: 250px;
+    font-size: 15px;
+}

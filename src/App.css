@@ -1,0 +1,40 @@
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 5px 5px 10px cyan;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+button{
+    width: 200px;
+    height: 80px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: lightskyblue;
+}
+button:hover{
+    background-color: aquamarine;
+}
+.par{
+    width: 100vw;
+    position: relative;
+    text-align: center;
+    margin-top: 10%;
+}
+.func{
+    position: absolute;
+    left: 10%;
+}
+.cls{
+    position: absolute;
+    right: 10%;
+}
